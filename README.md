@@ -6,3 +6,7 @@
 
 # Model Architecture 
 
+![](Images/architecture.png)
+
+
+
